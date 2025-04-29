@@ -1,0 +1,10 @@
+# Security Issue 1: eval(input())
+# Security Issue 2: pickle.loads(data)
+# Security Issue 3: subprocess.call(input())
+# Security Issue 4: os.system(input())
+# Security Issue 5: __import__('os').system('ls')
+# Security Issue 6: input('__prompt__')
+# Security Issue 7: exec(input())
+# Security Issue 8: open('/etc/passwd')
+# Security Issue 9: from urllib import urlopen
+# Security Issue 10: assert input()

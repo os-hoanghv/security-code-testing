@@ -1,0 +1,35 @@
+# All Programming Languages Sample Repo
+
+## Table of Contents
+- [ada.adb](./ada.adb)
+- [bash.sh](./bash.sh)
+- [c.c](./c.c)
+- [cobol.cbl](./cobol.cbl)
+- [cpp.cpp](./cpp.cpp)
+- [csharp.cs](./csharp.cs)
+- [elixir.ex](./elixir.ex)
+- [erlang.erl](./erlang.erl)
+- [fortran.f90](./fortran.f90)
+- [fsharp.fs](./fsharp.fs)
+- [go.go](./go.go)
+- [haskell.hs](./haskell.hs)
+- [java.java](./java.java)
+- [javascript.js](./javascript.js)
+- [julia.jl](./julia.jl)
+- [kotlin.kt](./kotlin.kt)
+- [lisp.lisp](./lisp.lisp)
+- [nim.nim](./nim.nim)
+- [ocaml.ml](./ocaml.ml)
+- [pascal.pas](./pascal.pas)
+- [php.php](./php.php)
+- [prolog.pl](./prolog.pl)
+- [python.py](./python.py)
+- [racket.rkt](./racket.rkt)
+- [ruby.rb](./ruby.rb)
+- [scala.scala](./scala.scala)
+- [scheme.scm](./scheme.scm)
+- [smalltalk.st](./smalltalk.st)
+- [swift.swift](./swift.swift)
+
+---
+Generated for security analysis and demonstration purposes.
