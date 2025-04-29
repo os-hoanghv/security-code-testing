@@ -1,0 +1,2 @@
+* COBOL sample code
+IDENTIFICATION DIVISION.
